@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603454343 source:d:\codes\dsa labs\lab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Node.h"
+	"SinglyLinkedList.h"
+
+1602220560 d:\codes\dsa labs\lab 3\node.h
+
+1602220560 d:\codes\dsa labs\lab 3\singlylinkedlist.h
+
+1602838655 source:d:\codes\dsa labs\lab 3\singlylinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Node.h"
+	"SinglyLinkedList.h"
+
