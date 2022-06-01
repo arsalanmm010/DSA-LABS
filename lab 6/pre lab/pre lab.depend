@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605959637 source:d:\codes\dsa labs\lab 6\pre lab\queue_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"queue_functions.h"
+
+1571216802 d:\codes\dsa labs\lab 6\pre lab\node.h
+
+1605961401 d:\codes\dsa labs\lab 6\pre lab\queue_functions.h
+
+1605961937 source:d:\codes\dsa labs\lab 6\pre lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"queue_functions.h"
+
