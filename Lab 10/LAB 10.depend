@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1608473115 source:d:\codes\dsa labs\lab 10\lab 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"BST.h"
+
+1608450360 d:\codes\dsa labs\lab 10\lab 10\node.h
+
+1608450360 d:\codes\dsa labs\lab 10\lab 10\bst.h
+
+1608473225 source:d:\codes\dsa labs\lab 10\lab 10\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"BST.h"
+
+1608829037 source:d:\codes\dsa labs\lab 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"BST.h"
+
+1608450360 d:\codes\dsa labs\lab 10\node.h
+
+1608828928 d:\codes\dsa labs\lab 10\bst.h
+
+1608829037 source:d:\codes\dsa labs\lab 10\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"node.h"
+	"BST.h"
+
