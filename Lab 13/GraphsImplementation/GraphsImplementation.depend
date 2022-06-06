@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1576666233 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"node.h"
+	"queue_functions.h"
+	"stack_functions.h"
+
+1571229637 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/queue_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+	"queue_functions.h"
+
+1576656102 /media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/node.h
+
+1571229653 /media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/queue_functions.h
+
+1576664887 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/stack_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"stack_functions.h"
+
+1576664867 /media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 13 Implementation of Graphs/GraphsImplementation/stack_functions.h
+
+1609310550 source:d:\codes\dsa labs\lab 13\graphsimplementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"node.h"
+	"stack_functions.h"
+
+1609120260 d:\codes\dsa labs\lab 13\graphsimplementation\node.h
+
+1609120260 d:\codes\dsa labs\lab 13\graphsimplementation\stack_functions.h
+
+1609120260 source:d:\codes\dsa labs\lab 13\graphsimplementation\stack_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"stack_functions.h"
+
