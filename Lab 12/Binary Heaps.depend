@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576043438 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 12 Binary Heaps Implementation/Binary Heaps/binary_heaps.c
+
+1576479748 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 12 Binary Heaps Implementation/Binary Heaps/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1609409677 source:d:\codes\dsa labs\lab 12\binary heaps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
